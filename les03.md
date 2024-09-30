@@ -1,0 +1,4 @@
+- Induction and invariance proof holds , see that it ends, with a condition. Correctness proof comes again and again
+- So no loop
+- Proof upper lower bound
+- Lhopital rule
