@@ -1,0 +1,14 @@
+- 15/11 choose topic like induction
+- polynomial => solvable (n or n^2)
+- undeterministic polynomial = concept solution
+- not many problems are NP
+- NP complete means reducable in ... if we can solve L2 we can solve L1 via reduction.
+- Exercise 2.1: Depth First Search or Breath First Search => they choose DFS and came to conclusion it is polynomial
+- 2.2: every NP problem can be expressed as a formula, or as satisfiablity formula. It is powerful an NP complete in NP (?). 
+- First line of answer would be in double sat, because 
+- 
+-   |P1 |P2 |P3 |
+- A1| 1 |0  |0  |
+- A2| 0 |1  |0  |
+- 
+- 
