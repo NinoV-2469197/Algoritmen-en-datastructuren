@@ -1,0 +1,3 @@
+- We are given 1 that is np complete than other is also np complete (?)
+- N Log n when binary search in linked list
+- P56-57 bewijs is niet volledig en staat op bb
