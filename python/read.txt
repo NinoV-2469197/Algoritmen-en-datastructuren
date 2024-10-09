@@ -1,0 +1,9 @@
+How to use the framework:
+0. Either make sure you have matplotlib and numpy installed...
+...or activate the virtual environment containing them by running 'source .venv/bin/activate' within the project directory.
+1. Download the current version of plotter.py and main.py, and the days you want to test.
+Comment out whatever days you are not interested in in main.py.
+2. Code your functions in the skeleton provded to you for that day.
+Mark the parts of the code you want to count, such as each execution of a loop, by using count().
+You can also replace comparisons inside if statements with eq(a,b) instead of == and lt(a,b) instead of <.
+3. Run main.py
