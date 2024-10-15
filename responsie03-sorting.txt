@@ -1,0 +1,5 @@
+- don't need to prove, maybe proof an ivariant with induction , what invariant would we need to prove the invariance
+proving every invariant would take to long.
+- no fullproof on exam (maybe) but correctness is also important
+- E8, invariance and induction, R9, look at the rules and what the rules produces so invariance and induction
+- 
